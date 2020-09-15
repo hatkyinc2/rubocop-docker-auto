@@ -1,2 +1,3 @@
+deleteBranchAfterMerge: true
 requiredLabels:
 - dependencies
